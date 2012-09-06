@@ -1,7 +1,7 @@
 bitModal
 ========
 
-a simple easy to style modal system that is built using library-free javascript.
+A simple easy to style modal system that is built using library-free javascript.
 
 TODOS
 =====
