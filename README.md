@@ -15,7 +15,7 @@ Copyleft
 
 *bitModal is proudly opensource and open for commits and forks.*
 
-bitModal - Copyright (C) 2012  Jerry Harrison - bitModal.org - github.com/jerryharrison/bitmodal
+bitModal - Copyright (C) 2012  Jerry Harrison (jerry@indieventuresllc.com) - bitModal.org - github.com/jerryharrison/bitmodal
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
